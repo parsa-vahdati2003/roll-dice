@@ -8,7 +8,7 @@ A simple project that simulates the rolling of a dice. This project is built usi
 - Easy to modify and extend.
 
 ## Demo
-[Click here to see the live demo](URL_OF_DEMO)
+[Click here to see the live demo](https://parsa-vahdati2003.github.io/roll-dice/)
 
 ## Installation
 
